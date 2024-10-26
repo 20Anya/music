@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS Performers (
-    id SERIAL PRIMARY KEY,
+    	id SERIAL PRIMARY KEY,
 	name varchar(40) NOT NULL,
 	genre varchar(40) NOT NULL,
 	album varchar(40) NOT NULL
