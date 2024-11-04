@@ -58,7 +58,7 @@ insert into collections
 values (1, 'Best of K-pop', 2024), (2, 'Best of Pop', 2020), (3,'Best of Jazz', 2010),(4, 'Best of hip-hop', 2015);
 
 insert into tracks 
-values(1, 'Face-off', 000349, 1), (2, 'Interlude : Dive', 000210, 1), (3, 'Like Crazy',000332, 1), 
+values(1, 'Face-off', 000349, 1), (2, 'Interlude : Dive/my', 000210, 1), (3, 'Like Crazy',000332, 1), 
 (4, 'Alone',000331, 1), (5, 'Set Me Free Pt.2',000320, 1), (6, 'Like Crazy (English Version)',000332, 1),
 (7, 'Cold wind blows', 000504, 2), (8, 'Seduction', 000436, 2),
 (9, 'Not afraid',000408, 2), (10, 'FRI(END)S',000228, 4),
