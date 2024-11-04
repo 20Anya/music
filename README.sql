@@ -52,7 +52,7 @@ insert into genres
 values(1, 'k-pop'), (2, 'hip-hop'), (3, 'jazz'), (4, 'pop');
 
 insert into albums 
-values(1, 'Face', 2023), (2,'Recovery', 2010), (3,'Ella and Louis', 1956), (4, 'FRI(END)S', 2024);
+values(1, 'Face', 2023), (2,'Recovery', 2019), (3,'Ella and Louis', 1956), (4, 'FRI(END)S', 2024);
 
 insert into collections 
 values (1, 'Best of K-pop', 2024), (2, 'Best of Pop', 2020), (3,'Best of Jazz', 2010),(4, 'Best of hip-hop', 2015);
